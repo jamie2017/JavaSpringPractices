@@ -1,0 +1,5 @@
+bookmarks/BookmarkRestController.class
+bookmarks/Application.class
+bookmarks/UserNotFoundException.class
+bookmarks/BookmarkControllerAdvice.class
+bookmarks/BookmarkResource.class
