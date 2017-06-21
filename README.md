@@ -11,4 +11,5 @@
   - [Accessing JPA Data with REST](tut-bookmarks)
 
 ## Data Flow Integration
+  - [XML Data Flow Integration](gs-integration)
 
